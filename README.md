@@ -1,10 +1,12 @@
-### RAG
+<p>## RAG<p>
+<div>
 RAG is an acronym for Retrieval Augmented Generation and in the RAG technique we divide our data into small segments, allowing the LLM to use them, within the limits of its context window.
 So with the RAG technique, we will divide our data, into small segments. Then it will convert the small segments into numbers.
 And finally it will load these numbers into a vector database.
 That these numbers are called embeddings.
 Embeddings are the result to convert small segments of text into numbers.
 Embeddings are more than numbers, they are vectors of numbers.
+</div>
 
 
 #### Multimodal RAG explained
