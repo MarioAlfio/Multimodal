@@ -15,10 +15,10 @@ Embeddings are more than numbers, they are vectors of numbers.
     pip install langchain openai
    ```
 2. ```bash
-    pip install langchain openai
+    pip install pydantic lxml chromadb tiktoken
    ```
 3. ```bash
-    pip install langchain openai
+    pip install "unstructured[all-docs]"
    ```
      
 * Summarize text with the LLM model.
