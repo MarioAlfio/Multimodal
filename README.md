@@ -29,3 +29,7 @@ Embeddings are more than numbers, they are vectors of numbers.
 * When a question is asked, do similarity search to retrieve the most relevant docs and send the response to the LLM Model to format it properly using natural language.
 * The unstructured module is the key here. We will use it to extract all the relevant parts of the document (text, tables and images).
 * Chromadb will be our vector store.
+
+
+> **Resource**
+> https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development
